@@ -1,0 +1,21 @@
+student_id,name,age,gender,city,course,marks_math,marks_science,marks_english,attendance_percent,fee_paid,enrollment_date,total_marks,percentage,grade,attendance_normalized
+1,Aarav Sharma,20,Male,Hyderabad,Computer Science,88.0,91.0,76.0,92.5,45000.0,2023-07-01,255.0,85.0,A,0.8533
+2,Priya Reddy,21,Female,Pune,Data Science,95.0,89.0,88.0,95.0,50000.0,2023-07-02,272.0,90.67,A+,0.92
+3,Rohit Kumar,19,Male,Delhi,Electronics,70.0,65.0,72.0,78.0,40000.0,2023-07-01,207.0,69.0,C,0.4667
+4,Sneha Nair,22,Female,Bangalore,Computer Science,82.0,88.0,90.0,88.5,45000.0,2023-07-03,260.0,86.67,A,0.7467
+5,Karan Mehta,20,Male,Mumbai,Mechanical,60.0,55.0,65.0,65.0,38000.0,2023-07-04,180.0,60.0,C,0.12
+6,Divya Iyer,21,Female,Chennai,Data Science,91.0,94.0,85.0,97.0,50000.0,2023-07-02,270.0,90.0,A+,0.9733
+7,Amit Singh,23,Male,Kolkata,Electrical,74.0,78.0,68.0,72.0,42000.0,2023-07-05,220.0,73.33,B,0.3067
+8,Pooja Verma,20,Female,Hyderabad,Computer Science,88.0,85.0,92.0,90.0,45000.0,2023-07-01,265.0,88.33,A,0.7867
+9,Nikhil Joshi,22,Male,Pune,Mechanical,55.0,60.0,58.0,60.5,38000.0,2023-07-06,173.0,57.67,D,0.0
+10,Ananya Das,21,Female,Delhi,Electronics,79.0,83.0,77.0,84.0,40000.0,2023-07-03,239.0,79.67,B,0.6267
+11,Rajesh Pillai,20,Male,Bangalore,Data Science,93.0,90.0,87.0,93.5,50000.0,2023-07-02,270.0,90.0,A+,0.88
+12,Kavya Menon,19,Female,Mumbai,Computer Science,86.0,80.0,89.0,89.0,45000.0,2023-07-07,255.0,85.0,A,0.76
+13,Suresh Patil,23,Male,Chennai,Electrical,68.0,72.0,65.0,70.0,42000.0,2023-07-04,205.0,68.33,C,0.2533
+14,Meera Gupta,21,Female,Kolkata,Mechanical,77.0,74.0,80.0,82.0,38000.0,2023-07-05,231.0,77.0,B,0.5733
+15,Vishal Tiwari,20,Male,Hyderabad,Data Science,85.0,88.0,83.0,91.0,50000.0,2023-07-01,256.0,85.33,A,0.8133
+16,Shruti Bose,22,Female,Pune,Electronics,90.0,92.0,88.0,94.0,40000.0,2023-07-02,270.0,90.0,A+,0.8933
+17,Arjun Rao,21,Male,Delhi,Computer Science,72.0,68.0,75.0,76.0,45000.0,2023-07-06,215.0,71.67,B,0.4133
+18,Nisha Kapoor,20,Female,Bangalore,Mechanical,63.0,58.0,70.0,67.5,38000.0,2023-07-03,191.0,63.67,C,0.1867
+19,Deepak Shetty,23,Male,Mumbai,Electrical,80.0,82.0,78.0,85.0,42000.0,2023-07-07,240.0,80.0,A,0.6533
+20,Ritu Chandra,21,Female,Chennai,Data Science,96.0,95.0,92.0,98.0,50000.0,2023-07-01,283.0,94.33,A+,1.0
